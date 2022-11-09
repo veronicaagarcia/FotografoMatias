@@ -1,0 +1,7 @@
+node_modules
+.env
+.DS_Store
+/src/.DS_Store
+/src/database/config.json
+src/database/config.json
+dashboard-react/node_modules
